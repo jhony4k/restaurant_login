@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "815814244386",
+    "firebase_url": "https://verifylogin-4k1.firebaseio.com",
+    "project_id": "verifylogin-4k1",
+    "storage_bucket": "verifylogin-4k1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815814244386:android:8dabb6fcee136bc9",
+        "android_client_info": {
+          "package_name": "com.example.shamim.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815814244386-6v4thb9cc8m6m8lrmm39fah0pc6ju36c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shamim.login",
+            "certificate_hash": "52977489c5dcbd71b9cf67c981bf6b8fa714ce4e"
+          }
+        },
+        {
+          "client_id": "815814244386-vhb29dim7bdnp69ab4jrhhsju09afd94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5rVPwyTr42geACTYTTwJKrcyHvnzW3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815814244386-vhb29dim7bdnp69ab4jrhhsju09afd94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
